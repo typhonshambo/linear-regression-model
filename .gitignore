@@ -1,1 +1,22 @@
+# Virtual environments
+venv/
+.venv/
+env/
 virtual-env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data files (if you keep large datasets locally)
+# Dataset/
